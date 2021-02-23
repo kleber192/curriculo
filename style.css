@@ -1,0 +1,41 @@
+/* resert css */
+html * {
+ margin: 0%px;   
+}
+
+
+#menu{
+height: 400px;
+background-color: #747373;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+#perfil{
+
+    height: 300px;
+    width: 300px;
+    /* ajustar imagem sem perder porpoção */
+    object-fit: cover;
+    /* deixa a imagem arredondada */
+    border-radius:50%;
+    margin:20px;
+
+}
+
+#pricipal{
+
+height: 300px;
+background-color: #5c5c5c;
+
+}
+
+#rodape{
+
+    height: 300px;
+    background-color: #505050;
+}
+
+
