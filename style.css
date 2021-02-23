@@ -25,12 +25,57 @@ align-items: center;
 
 }
 
-#pricipal{
 
-height: 300px;
+
+#principal{
+
+height: 600px;
 background-color: #5c5c5c;
+display: flex;
+justify-content: center;
+align-items: center;
 
 }
+
+div{
+
+    background-color: black;
+    height: 400px;
+    width: 400px ;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.caixa {
+
+    background: color 1f 1f 1f;
+    height: 400px;
+    width: 400px ;
+    margin: 20px;
+
+    /* alinhamento da caixa  */
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+
+
+}
+
+
+
+.texto{
+
+color:azure ;
+font-size: 30px;
+
+
+}
+
 
 #rodape{
 
