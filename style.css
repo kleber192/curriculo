@@ -1,6 +1,7 @@
 /* resert css */
 html * {
- margin: 0%px;   
+ margin: 0%px;
+ text text-decoration: none;   
 }
 
 
@@ -25,11 +26,18 @@ align-items: center;
 
 }
 
+main{
 
+text-align: center;
+background-color: #5c5c5c;
+color: white;
+padding: 20px;
+
+}
 
 #principal{
 
-height: 600px;
+
 background-color: #5c5c5c;
 display: flex;
 justify-content: center;
